@@ -1,1 +1,5 @@
 Hellow in this repo we will see how we create new repo in smart git and connect it to the github
+
+
+
+new changes
